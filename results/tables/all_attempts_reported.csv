@@ -1,0 +1,12 @@
+attempt,training_accuracy_reported,training_loss_reported,test_accuracy_reported,test_loss_narrative_reported
+Attempt-1,%92.71,%0.2518,%80.75,%0.42
+Attempt-2,%94.79,%0.1807,%85.00,%0.37
+Attempt-3,%93.23,%0.2362,%79.00,%0.50
+Attempt-4,%98.70,%0.1169,%84.00,%0.53
+Attempt-5,%98.65,%0.1151,%85.55,%0.35
+Attempt-6,%92.19,%0.2913,%79.75,%0.40
+Attempt-7,%97.40,%0.1248,%81.75,%0.53
+Attempt-8,%97.79,%0.2005,%82.00,%0.48
+Attempt-9,%97.79,%0.2005,%92.75,%0.37
+Attempt-10,%97.79,%0.2005,%39.75,%0.89
+Attempt-11,%97.79,%0.2005,%50.00,%0.78

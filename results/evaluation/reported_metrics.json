@@ -1,0 +1,13 @@
+{
+  "status": "Historical source transcriptions, not new model execution",
+  "selected_attempt": 8,
+  "reported_training_accuracy_percent": 97.79,
+  "reported_separate_evaluation_images": 400,
+  "reported_separate_evaluation_accuracy_percent": 82,
+  "colab_screenshot_loss_rounded_to_5_decimal_places": 0.47826,
+  "raspberry_pi_screenshot_loss_rounded_to_5_decimal_places": 0.47845,
+  "epoch_history_csv_available": false,
+  "full_prediction_log_available": false,
+  "confusion_matrix_available": false,
+  "note": "Colab and Raspberry Pi screenshots have slightly different loss values. Preserve their separate sources. Accuracy alone does not determine a confusion matrix."
+}

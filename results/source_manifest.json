@@ -1,0 +1,311 @@
+{
+  "method": "Original embedded image and workbook bytes extracted without re-encoding. CSV and Markdown are transcriptions of the embedded result table. No training or new predictions.",
+  "source_documents_sha256": {
+    "EE492_PROJECT REPORT _O.EMRE_24SP.docx": "597de9c7c4a942ee8f55fb58abea96512e9128b46cafbe5b9669d5442b0483ed",
+    "EE492_PROJECT PRESENTATION _O.EMRE_.pptx": "4fbab05e318364774a168eb353cc19cf35879a5ff45a3085796227800aa3706e",
+    "EE492_PROJECT PRESENTATION_E.OZTURK_24SP.ppt": "bfeb3f1ac3d9e619b5ceb939f229829429e51aa6ac138cdddc3b7a829d61fe26"
+  },
+  "artifacts": [
+    {
+      "path": "learning_curves/attempt_01_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image18.png",
+      "bytes": 38322,
+      "sha256": "4bf75b6c1f418b4df4cffc827989c50eb66b1ebfdb9ce3eea7752990795be44e",
+      "attempt": 1,
+      "metric": "accuracy",
+      "report_figures": [
+        18
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_01_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image19.png",
+      "bytes": 31299,
+      "sha256": "01149d072e0ecbb70b0cb67be4ff170e17e7abf5557bc219c3428e8a7815314c",
+      "attempt": 1,
+      "metric": "loss",
+      "report_figures": [
+        19
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_02_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image20.png",
+      "bytes": 33765,
+      "sha256": "7e038a09704313474006c136705d085b7b2b8f70ca13ddcba3dc85817207dd92",
+      "attempt": 2,
+      "metric": "accuracy",
+      "report_figures": [
+        20
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_02_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image21.png",
+      "bytes": 29600,
+      "sha256": "0c290e80d113e05c4d476bda3471fb187e25435a818855825f69409309c61260",
+      "attempt": 2,
+      "metric": "loss",
+      "report_figures": [
+        21
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_03_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image22.png",
+      "bytes": 42028,
+      "sha256": "60586ee38fb06d4354b2d6081bc94917f784d9546ea6c38f4d5a22b7aa0e8158",
+      "attempt": 3,
+      "metric": "accuracy",
+      "report_figures": [
+        22
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_03_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image23.png",
+      "bytes": 32312,
+      "sha256": "f6e98c8f22939e0e068f46d34da08cd32021d3be81cbf78c916bdea1ead4d7d2",
+      "attempt": 3,
+      "metric": "loss",
+      "report_figures": [
+        23
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_04_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image24.png",
+      "bytes": 35404,
+      "sha256": "394e1b15c9ff93ad25f178484353d771ec18cd7b6ff895480b8180a47ca22399",
+      "attempt": 4,
+      "metric": "accuracy",
+      "report_figures": [
+        24
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_04_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image25.png",
+      "bytes": 29691,
+      "sha256": "398038c65694d743f4242a32da99dead71e4e232aa9a0e7080ce08a0cea7ee8e",
+      "attempt": 4,
+      "metric": "loss",
+      "report_figures": [
+        25
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_05_accuracy.jpeg",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image26.jpeg",
+      "bytes": 67504,
+      "sha256": "a944ce35189c75cb5147cde2a9222d622b0aaa6403efd74366e85f097693d08b",
+      "attempt": 5,
+      "metric": "accuracy",
+      "report_figures": [
+        26
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_05_loss.jpeg",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image27.jpeg",
+      "bytes": 48543,
+      "sha256": "bc402a943db3cbd3878707e4478992089e2febea211551a4c76de99c45158015",
+      "attempt": 5,
+      "metric": "loss",
+      "report_figures": [
+        27
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_06_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image28.png",
+      "bytes": 42094,
+      "sha256": "92589b07998240d8f354dd44e3849b9380d26f67e5f7a08dac53969cc962d5ee",
+      "attempt": 6,
+      "metric": "accuracy",
+      "report_figures": [
+        28
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_06_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image29.png",
+      "bytes": 31272,
+      "sha256": "3cc3625a28e587b56143ac4754bb47f184244aebe3d6a5b0ebf8420f411a0f7d",
+      "attempt": 6,
+      "metric": "loss",
+      "report_figures": [
+        29
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_07_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image30.png",
+      "bytes": 34470,
+      "sha256": "f76fe1fe498202658a5a1e528828e97d7cb95918736959101d60034a588d3174",
+      "attempt": 7,
+      "metric": "accuracy",
+      "report_figures": [
+        30
+      ],
+      "original_caption": "Training and Validation Accuracy Graph"
+    },
+    {
+      "path": "learning_curves/attempt_07_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image31.png",
+      "bytes": 29791,
+      "sha256": "c7badb1cd5298ab994058b846e169726493ef359996f67c3cef4988d2f05a894",
+      "attempt": 7,
+      "metric": "loss",
+      "report_figures": [
+        31
+      ],
+      "original_caption": "Training and Validation Loss Graph"
+    },
+    {
+      "path": "learning_curves/attempt_08_accuracy.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image32.png",
+      "bytes": 41205,
+      "sha256": "110f54a5580999067c432bd971481ccc218ae2d1e1db5120997eb9f7f5a9aea1",
+      "attempt": 8,
+      "metric": "accuracy",
+      "report_figures": [
+        32,
+        34
+      ],
+      "original_caption": "Training and Validation Accuracy Graph",
+      "also_embedded_in": {
+        "source_document": "EE492_PROJECT PRESENTATION _O.EMRE_.pptx",
+        "source_part": "ppt/media/image23.png"
+      }
+    },
+    {
+      "path": "learning_curves/attempt_08_loss.png",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image33.png",
+      "bytes": 30012,
+      "sha256": "3f7bdb0f90587fef460df1164bdb505403ab1e9a9ea48f6f3cc724d457b13d1d",
+      "attempt": 8,
+      "metric": "loss",
+      "report_figures": [
+        33,
+        35
+      ],
+      "original_caption": "Training and Validation Loss Graph",
+      "also_embedded_in": {
+        "source_document": "EE492_PROJECT PRESENTATION _O.EMRE_.pptx",
+        "source_part": "ppt/media/image24.png"
+      }
+    },
+    {
+      "path": "evaluation/raspberry_pi_metrics.jpeg",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image35.jpeg",
+      "bytes": 160252,
+      "sha256": "8d74f49abae81de2364bb5dea734f3da0cc830ca6ac95d3deddce026f4f21edb",
+      "report_figures": [
+        36
+      ],
+      "meaning": "Evaluation terminal screenshot with final metrics and only the last prediction rows."
+    },
+    {
+      "path": "evaluation/raspberry_pi_predictions_excerpt.jpeg",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image36.jpeg",
+      "bytes": 173593,
+      "sha256": "7a4ecfb5833991ae059867ecf9d2046398145a21f19b0d0d3f315e92b684ba2a",
+      "report_figures": [
+        37
+      ],
+      "meaning": "Visible excerpt of predicted and actual classes; not the complete prediction log."
+    },
+    {
+      "path": "evaluation/colab_test_metrics.png",
+      "source_document": "EE492_PROJECT PRESENTATION _O.EMRE_.pptx",
+      "source_part": "ppt/media/image27.png",
+      "bytes": 6289,
+      "sha256": "ad7f53c8accf955c31894dc7b894d587a4f57912000a0aa449bf794865f41d2e",
+      "meaning": "Original presentation screenshot of accuracy 0.82 and loss approximately 0.47826."
+    },
+    {
+      "path": "legacy_presentation/selected_accuracy.png",
+      "source_document": "EE492_PROJECT PRESENTATION_E.OZTURK_24SP.ppt",
+      "source_container": "OLE Pictures stream",
+      "bytes": 204752,
+      "sha256": "23c093373948565cdb3949d164c915f89c4bf77852172faa066ca1cc16053adc",
+      "meaning": "Original legacy presentation variant; not an additional experiment.",
+      "pictures_stream_offset": 1233729
+    },
+    {
+      "path": "legacy_presentation/selected_loss.png",
+      "source_document": "EE492_PROJECT PRESENTATION_E.OZTURK_24SP.ppt",
+      "source_container": "OLE Pictures stream",
+      "bytes": 129383,
+      "sha256": "a2cf00bffb5dae408fa05135e8fb4ad0ce4a0a425891a0893df371d972931ba5",
+      "meaning": "Original legacy presentation variant; not an additional experiment.",
+      "pictures_stream_offset": 1438506
+    },
+    {
+      "path": "legacy_presentation/test_metrics.png",
+      "source_document": "EE492_PROJECT PRESENTATION_E.OZTURK_24SP.ppt",
+      "source_container": "OLE Pictures stream",
+      "bytes": 105604,
+      "sha256": "1595ab42b626813265d90126362fe542d3b8a66236b6b02837e394e315be606c",
+      "meaning": "Original legacy presentation variant; not an additional experiment.",
+      "pictures_stream_offset": 1567914
+    },
+    {
+      "path": "legacy_presentation/predictions_excerpt.png",
+      "source_document": "EE492_PROJECT PRESENTATION_E.OZTURK_24SP.ppt",
+      "source_container": "OLE Pictures stream",
+      "bytes": 3216732,
+      "sha256": "f9d70d75958ed47799a978fe28b03ee262627e13e92b19fad92de68717308ea4",
+      "meaning": "Original legacy presentation variant; not an additional experiment.",
+      "pictures_stream_offset": 1673543
+    },
+    {
+      "path": "tables/table_03_original.xlsx",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/embeddings/Microsoft_Excel_Worksheet.xlsx",
+      "bytes": 10784,
+      "sha256": "f4d5d1a6d7860791bf5992a337773f942b503745a09f429d18b31f507757a058",
+      "report_table": 3
+    },
+    {
+      "path": "tables/table_03_original_preview.emf",
+      "source_document": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "source_part": "word/media/image34.emf",
+      "bytes": 14868,
+      "sha256": "db46e859e14b76804140d0616c2094586dce84576ee0e95bd7be7609bf3080ae",
+      "report_table": 3
+    }
+  ],
+  "confusion_matrix_available": false
+}

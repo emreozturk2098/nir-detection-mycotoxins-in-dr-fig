@@ -25,3 +25,7 @@ The archive does not include the original model weights, random split membership
 The report also describes class-dependent normalization trials. Those trials should not be treated as a label-independent inference procedure or used to replace the stated 82% held-out result with a higher headline score.
 
 The original Office documents are preserved as historical records; their wording, figures and experimental inconsistencies were not rewritten during this upload.
+
+## Extracted result artifacts
+
+Original report/presentation curves, the embedded result table and evaluation screenshots are available in [`../results/README.md`](../results/README.md). They are historical source artifacts, not outputs of rerunning the code. Complete epoch histories, all prediction/label pairs and model weights remain unavailable, so a full-test confusion matrix cannot be reconstructed from this archive alone.

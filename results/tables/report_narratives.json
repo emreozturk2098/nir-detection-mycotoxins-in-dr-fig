@@ -1,0 +1,57 @@
+[
+  {
+    "attempt": 1,
+    "word_body_child_index_zero_based": 394,
+    "original_report_paragraph": "The model was trained with a batch size of 32 and images of size 512. The dataset was split into 80% training, 10% testing, and 10% validation sets. Regularization was applied, with a learning rate set to 0.0001, and early stopping was implemented. The results obtained with these settings are presented below (Figure 18,Figure 19). The post-training accuracy rate was %0.9271, with a loss value of %0.2518. The test accuracy rate was %80.75, and the loss value was %0.42. "
+  },
+  {
+    "attempt": 2,
+    "word_body_child_index_zero_based": 401,
+    "original_report_paragraph": "The model has been trained with a batch size of 32 and images of size 512. The dataset was split into 70% training, 20% testing, and 10% validation sets. Regularization was applied, with a learning rate set to 0.0001, and early stopping was implemented. The results obtained with these settings are presented below (Figure 20,Figure 21). The post-training accuracy rate was %0.9479, with a loss value of %0.1807. The test accuracy rate was %85, and the loss value was %0.37."
+  },
+  {
+    "attempt": 3,
+    "word_body_child_index_zero_based": 409,
+    "original_report_paragraph": "The model has been trained with a batch size of 32 and images of size 512. The dataset was divided into 70% for training, 20% for testing, and 10% for validation. Regularization was applied by setting the learning rate to 0.00001, and early stopping was implemented. Finally, ReduceLROnPlateau was utilized. The results obtained with these settings are presented below (Figure 22,Figure 23). The same settings were applied, but only the learning rate was reduced to 0.001, resulting in significantly lower accuracy and higher loss. The post-training accuracy rate was %0.9323, with a loss value of %0.2362. The test accuracy rate was %79, and the loss value was %0.50."
+  },
+  {
+    "attempt": 4,
+    "word_body_child_index_zero_based": 415,
+    "original_report_paragraph": "The model has been trained with a batch size of 64 and images of size 512. The dataset was segmented into 80% for training, 10% for testing, and 10% for validation. Regularization was applied by setting the learning rate to 0.0001, and early stopping was implemented. The results obtained with these settings are presented below (Figure 24,Figure 25). The post-training accuracy rate was %0.9870, with a loss value of %0.1169. The test accuracy rate was %84, and the loss value was %0.53. "
+  },
+  {
+    "attempt": 5,
+    "word_body_child_index_zero_based": 423,
+    "original_report_paragraph": "The model was trained with a batch size of 32 and images of size 512. The dataset was segmented into 80% for training, 10% for testing, and 10% for validation. Regularization was applied by setting the learning rate to 0.0001, and early stopping was implemented. The results obtained with these settings are presented below (Figure 26,Figure 27). The post-training accuracy rate was %0.9865, with a loss value of %0.1151. The test accuracy rate was %85.55, and the loss value was %0.35."
+  },
+  {
+    "attempt": 6,
+    "word_body_child_index_zero_based": 431,
+    "original_report_paragraph": "The model was trained with a batch size of 32 and 512-dimensional images. Data augmentation was applied (brightness and contrast adjustments). The dataset was segmented into 70% for training, 20% for testing, and 10% for validation. Regularization was applied with a learning rate set to 0.00001, and early stopping was implemented. Finally, ReduceLROnPlateau was utilized. The results obtained with these settings are presented below. (Figure 28,Figure 29). The post-training accuracy rate was %0.9219, with a loss value of %0.2913. The test accuracy rate was %79.75, and the loss value was %0.40."
+  },
+  {
+    "attempt": 7,
+    "word_body_child_index_zero_based": 440,
+    "original_report_paragraph": "The model was trained with a batch size of 64 and 512-dimensional images. Data augmentation was applied (brightness). The dataset was segmented into 80% for training, 10% for testing, and 10% for validation. Regularization was applied with a learning rate set to 0.0001, and early stopping was implemented. The results obtained with these settings are presented below (Figure 30,Figure 31). The post-training accuracy rate was %0.9740, with a loss value of %0.1248. The test accuracy rate was %81.75, and the loss value was %0.53."
+  },
+  {
+    "attempt": 8,
+    "word_body_child_index_zero_based": 449,
+    "original_report_paragraph": "The model was trained with a batch size of 64 and 512-dimensional images. Data augmentation was applied (brightness). The dataset was segmented into 80% for training, 10% for testing, and 10% for validation. Regularization was applied with a learning rate set to 0.00001, and early stopping was implemented. The results obtained with these settings are presented below (Figure 32,Figure 33). The post-training accuracy rate was %0.9779, with a loss value of %0.2005. The test accuracy rate was %82, and the loss value was %0.48. "
+  },
+  {
+    "attempt": 9,
+    "word_body_child_index_zero_based": 456,
+    "original_report_paragraph": "The previous model was saved, and normalization was applied to the aflatoxin class included in the test code, while it was not applied to the healthy class. The test accuracy rate was %92.75, and the loss value was %0.37. "
+  },
+  {
+    "attempt": 10,
+    "word_body_child_index_zero_based": 458,
+    "original_report_paragraph": "Normalization was not applied to the aflatoxin class included in the test code, whereas it was applied to the healthy class. The test accuracy rate was %39.75, and the loss value was %0.89. "
+  },
+  {
+    "attempt": 11,
+    "word_body_child_index_zero_based": 460,
+    "original_report_paragraph": "Normalization was applied to both the aflatoxin class and the healthy class included in the test code. The test accuracy rate was %50, and the loss value was %0.78."
+  }
+]

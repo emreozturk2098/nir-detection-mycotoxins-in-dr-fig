@@ -13,6 +13,7 @@ The work investigates classification of dried-fig measurements into the original
 | Location | Contents |
 | --- | --- |
 | [`Veriseti/`](Veriseti/README.md) | Original directory hierarchy: 1,440 CSV files and 10,726 PNG files, including multiple representations and experimental variants. |
+| [`results/`](results/README.md) | Learning curves, all-attempt result table, and original Colab/Raspberry Pi evaluation screenshots. |
 | [`code/report_appendices/`](code/README.md) | Five historical MATLAB/Python code listings extracted from appendices A–E of the report. |
 | [Project report](EE492_PROJECT%20REPORT%20_O.EMRE_24SP.docx) | Original 2024 DOCX report, including methods, experimental results, references and code appendices. |
 | [PPTX presentation](EE492_PROJECT%20PRESENTATION%20_O.EMRE_.pptx) | Original presentation. |
@@ -30,6 +31,8 @@ The work investigates classification of dried-fig measurements into the original
 - All original filenames and file contents are retained. See the [dataset guide](Veriseti/README.md) before selecting an experiment folder.
 
 ## Reported results
+
+Browse the [results archive](results/README.md) for the original learning curves, Table 3, and evaluation screenshots.
 
 The report describes the selected “Attempt-8” model as achieving **97.79% training accuracy** and **82% accuracy on a separate 400-image evaluation**, with reported evaluation loss **0.48**. These are historical results reported in the document; training and evaluation were not rerun for this upload. Training accuracy should not be presented as held-out test accuracy.
 

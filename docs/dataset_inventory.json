@@ -1,0 +1,315 @@
+{
+  "source_files": 12169,
+  "source_bytes": 195344830,
+  "extensions": {
+    ".pptx": 1,
+    ".ppt": 1,
+    ".docx": 1,
+    ".png": 10726,
+    ".csv": 1440
+  },
+  "directories": {
+    ".": {
+      "files": 3,
+      "bytes": 20571146,
+      "dimensions": {}
+    },
+    "Veriseti/kuru_incir/200_TEST_VERİ_GRAFİK_512/HASTALIKLI": {
+      "files": 200,
+      "bytes": 1208277,
+      "dimensions": {
+        "512x512": 200
+      }
+    },
+    "Veriseti/kuru_incir/200_TEST_VERİ_GRAFİK_512/NORMAL": {
+      "files": 200,
+      "bytes": 1219663,
+      "dimensions": {
+        "512x512": 200
+      }
+    },
+    "Veriseti/kuru_incir/224_stem/HASTALIKLI": {
+      "files": 360,
+      "bytes": 3830503,
+      "dimensions": {
+        "224x224": 360
+      }
+    },
+    "Veriseti/kuru_incir/224_stem/NORMAL": {
+      "files": 360,
+      "bytes": 3727439,
+      "dimensions": {
+        "224x224": 360
+      }
+    },
+    "Veriseti/kuru_incir/256_stem/HASTALIKLI": {
+      "files": 360,
+      "bytes": 4475585,
+      "dimensions": {
+        "256x256": 360
+      }
+    },
+    "Veriseti/kuru_incir/256_stem/NORMAL": {
+      "files": 360,
+      "bytes": 4350104,
+      "dimensions": {
+        "256x256": 360
+      }
+    },
+    "Veriseti/kuru_incir/500_VERİ_GRAFİK_512/HASTALIKLI": {
+      "files": 500,
+      "bytes": 3015089,
+      "dimensions": {
+        "512x512": 500
+      }
+    },
+    "Veriseti/kuru_incir/500_VERİ_GRAFİK_512/NORMAL": {
+      "files": 500,
+      "bytes": 3046368,
+      "dimensions": {
+        "512x512": 500
+      }
+    },
+    "Veriseti/kuru_incir/512-HASTALIKLI": {
+      "files": 200,
+      "bytes": 1174871,
+      "dimensions": {
+        "512x512": 200
+      }
+    },
+    "Veriseti/kuru_incir/512-NORMAL": {
+      "files": 200,
+      "bytes": 1171366,
+      "dimensions": {
+        "512x512": 200
+      }
+    },
+    "Veriseti/kuru_incir/60_448/GRİDLİ_HASTALIKLI": {
+      "files": 80,
+      "bytes": 1877047,
+      "dimensions": {
+        "875x656": 80
+      }
+    },
+    "Veriseti/kuru_incir/60_448/GRİDLİ_NORMAL": {
+      "files": 80,
+      "bytes": 1978972,
+      "dimensions": {
+        "875x656": 80
+      }
+    },
+    "Veriseti/kuru_incir/60_448/SİLİNDİ/GRİDLİ_HASTALIKLI_SİLİNDİ": {
+      "files": 63,
+      "bytes": 1506970,
+      "dimensions": {
+        "875x656": 63
+      }
+    },
+    "Veriseti/kuru_incir/60_448/SİLİNDİ/GRİDLİ_NORMAL_SİLİNDİ": {
+      "files": 63,
+      "bytes": 1553987,
+      "dimensions": {
+        "875x656": 63
+      }
+    },
+    "Veriseti/kuru_incir/ORİJİNAL/HASTALIKLI": {
+      "files": 360,
+      "bytes": 8047763,
+      "dimensions": {
+        "875x656": 360
+      }
+    },
+    "Veriseti/kuru_incir/ORİJİNAL/NORMAL": {
+      "files": 360,
+      "bytes": 8172848,
+      "dimensions": {
+        "875x656": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/1024/HASTALIKLI": {
+      "files": 360,
+      "bytes": 5230436,
+      "dimensions": {
+        "1024x1024": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/1024/NORMAL": {
+      "files": 360,
+      "bytes": 5299032,
+      "dimensions": {
+        "1024x1024": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/224/HASTALIKLI": {
+      "files": 360,
+      "bytes": 1690044,
+      "dimensions": {
+        "224x224": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/224/NORMAL": {
+      "files": 360,
+      "bytes": 1703345,
+      "dimensions": {
+        "224x224": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/256/HASTALIKLI": {
+      "files": 360,
+      "bytes": 2016395,
+      "dimensions": {
+        "256x256": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/256/NORMAL": {
+      "files": 360,
+      "bytes": 2035325,
+      "dimensions": {
+        "256x256": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/3072/HASTALIKLI": {
+      "files": 360,
+      "bytes": 24643002,
+      "dimensions": {
+        "3072x3072": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/3072/NORMAL": {
+      "files": 360,
+      "bytes": 24922509,
+      "dimensions": {
+        "3072x3072": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/400/HASTALIKLI": {
+      "files": 360,
+      "bytes": 3693238,
+      "dimensions": {
+        "400x400": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/400/NORMAL": {
+      "files": 360,
+      "bytes": 3722871,
+      "dimensions": {
+        "400x400": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/512/HASTALIKLI": {
+      "files": 360,
+      "bytes": 2173689,
+      "dimensions": {
+        "512x512": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/512/NORMAL": {
+      "files": 360,
+      "bytes": 2193685,
+      "dimensions": {
+        "512x512": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/768/HASTALIKLI": {
+      "files": 360,
+      "bytes": 3614650,
+      "dimensions": {
+        "768x768": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/768/NORMAL": {
+      "files": 360,
+      "bytes": 3521728,
+      "dimensions": {
+        "512x512": 34,
+        "768x768": 326
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/REFLACTANCE_512/HASTALIKLI": {
+      "files": 360,
+      "bytes": 2140748,
+      "dimensions": {
+        "512x512": 360
+      }
+    },
+    "Veriseti/kuru_incir/TEMİZ_GRAFİK/REFLACTANCE_512/NORMAL": {
+      "files": 360,
+      "bytes": 2139237,
+      "dimensions": {
+        "512x512": 360
+      }
+    },
+    "Veriseti/İNCİR_Birleşik/Birlesik_goruntu/HASTALIKLI": {
+      "files": 360,
+      "bytes": 13450890,
+      "dimensions": {
+        "640x480": 360
+      }
+    },
+    "Veriseti/İNCİR_Birleşik/Birlesik_goruntu/NORMAL": {
+      "files": 360,
+      "bytes": 12990728,
+      "dimensions": {
+        "640x480": 360
+      }
+    },
+    "Veriseti/İNCİR_Birleşik/Ref+Abs_csv/HASTALIKLI": {
+      "files": 720,
+      "bytes": 3617640,
+      "dimensions": {}
+    },
+    "Veriseti/İNCİR_Birleşik/Ref+Abs_csv/NORMAL": {
+      "files": 720,
+      "bytes": 3617640,
+      "dimensions": {}
+    }
+  },
+  "absorbance_reflectance_pairs": 720,
+  "csv_numeric_rows": {
+    "228": 1440
+  },
+  "csv_headers": [
+    [
+      "Wavelength (nm)",
+      "Absorbance (AU)"
+    ],
+    [
+      "Wavelength (nm)",
+      "Reflectance (AU)"
+    ]
+  ],
+  "wavelength_start_nm": 901.663021,
+  "wavelength_end_nm": 1700.708699,
+  "code": [
+    {
+      "appendix": "A",
+      "path": "code/report_appendices/appendix_a_csv_to_png.m",
+      "origin": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "syntax": "MATLAB runtime not tested"
+    },
+    {
+      "appendix": "B",
+      "path": "code/report_appendices/appendix_b_training.py",
+      "origin": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "syntax": "Historical syntax error at line 27: invalid syntax. Perhaps you forgot a comma?"
+    },
+    {
+      "appendix": "C",
+      "path": "code/report_appendices/appendix_c_save_model.py",
+      "origin": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "syntax": "Python parser accepted; runtime not tested"
+    },
+    {
+      "appendix": "D",
+      "path": "code/report_appendices/appendix_d_evaluate_model.py",
+      "origin": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "syntax": "Python parser accepted; runtime not tested"
+    },
+    {
+      "appendix": "E",
+      "path": "code/report_appendices/appendix_e_plot_spectra.py",
+      "origin": "EE492_PROJECT REPORT _O.EMRE_24SP.docx",
+      "syntax": "Python parser accepted; runtime not tested"
+    }
+  ]
+}
